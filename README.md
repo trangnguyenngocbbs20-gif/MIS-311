@@ -34,11 +34,11 @@ MIS-311/
 
 ## Key Findings
 
-### 🔍 Insight 1: Fruits and Beverages Are the Top Revenue-Generating Categories
+Insight 1: Fruits and Beverages Are the Top Revenue-generating Categories
 Fruits generated the highest total revenue at **$7,505.08** (~23.8% of total), followed by Beverages at **$6,463.17** (~20.5%). Together they account for over **44%** of all sales, making them the most commercially important product lines.
 
-### 🔍 Insight 2: Branch A Significantly Outperforms Branch B, and Members Spend More
-Branch A recorded total revenue of **$22,097.47** — nearly **2.5× higher** than Branch B at **$8,948.81**. Member customers also spend on average **$136.30** per transaction vs **$112.99** for Normal customers, a difference of ~20.6%.
+Insight 2: Branch A Significantly Outperforms Branch B, and Members Spend More
+Branch A recorded total revenue of **$22,097.47** nearly **2.5× higher** than Branch B at **$8,948.81**. Member customers also spend on average **$136.30** per transaction vs **$112.99** for Normal customers, a difference of ~20.6%.
 
 ## Tools Used
 - **Python** – pandas, matplotlib, seaborn
