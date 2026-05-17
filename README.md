@@ -30,7 +30,7 @@ MIS-311/
 | Missing `product_category` | 6 rows | Filled with "Unknown" |
 | Missing `quantity` | 3 rows | Filled with median (11.0) |
 | Duplicate rows | 3 rows | Removed |
-| **Final clean dataset** | **250 rows** | ✅ Ready for analysis |
+| **Final clean dataset** | **250 rows** | Ready for analysis |
 
 ## Key Findings
 
